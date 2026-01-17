@@ -9,7 +9,6 @@ Hello World project
 
 Python
 
-{Describe the programming language that you used}
 
 # Useful Websites
 
